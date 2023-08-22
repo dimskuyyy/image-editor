@@ -1,0 +1,26 @@
+
+/* Raleway regular weight */
+@font-face{
+    font-family: regular;
+    src: url('../font/Raleway-Regular.ttf');
+}
+/* Raleway bold weight */
+@font-face{
+    font-family: bold;
+    src: url('../font/Raleway-Bold.ttf');
+}
+/* Raleway semi-bold weight */
+@font-face{
+    font-family: semi-bold;
+    src: url('../font/Raleway-SemiBold.ttf');
+}
+/* Raleway medium weight */
+@font-face{
+    font-family: medium;
+    src: url('../font/Raleway-Medium.ttf');
+}
+/* Raleway Light weight */
+@font-face{
+    font-family: light;
+    src: url('../font/Raleway-Light.ttf');
+}
